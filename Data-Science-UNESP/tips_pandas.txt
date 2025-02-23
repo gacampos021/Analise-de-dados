@@ -1,0 +1,12 @@
+
+	- df.value_counts(sort = False) --> dict str-qnt
+
+	- df.uniques() --> valores nao repetidos
+
+	- string_data.isnull() --> detecta valores NaN
+
+	- data.dropna() --> remove Nan
+
+	- obj.drop('index') --> remove row
+
+	- 
